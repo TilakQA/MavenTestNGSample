@@ -1,2 +1,0 @@
-# MavenTestNGSample
-Maven TestNG Sample
